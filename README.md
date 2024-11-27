@@ -35,5 +35,5 @@ pip install pycryptodome
 
 - The script is configured to handle binary files, so you can test it with text or any binary content.
 - The decrypted data will match the original file's contents exactly unless the file is modified or the encryption key is incorrect.
-```
+
 
